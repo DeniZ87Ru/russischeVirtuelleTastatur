@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RussKey24:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RussKey24_jar</output-path>
+    <root id="archive" name="RussKey24.jar">
+      <element id="module-output" name="RussKey24" />
+    </root>
+  </artifact>
+</component>
